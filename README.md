@@ -1,7 +1,24 @@
 # PV_Module_Simulator
 A Python-based tool for simulating the J-V characteristics of a photovoltaic module. It calculates V_oc, J_sc, P_max, and efficiency (PCE) based on user inputs like irradiance, temperature, and resistances. The simulator generates realistic J-V curves for performance analysis.
 
-# Useful Commands [IF YOU RENAME DEFAULT WIDGET FILE YOU HAVE TO RENAME COMMANDS TOO]
+### Installing Qt Creator ###
+  - Qt Creator (IDE for Qt Development): https://www.qt.io/download
+
+# To install Qt Creator, download it from the official Qt website:
+
+  - Go to Qt Creator Download
+  - Select Open Source version (if applicable).
+  - Install Qt Creator and select the required components.
+
+# Using Package Managers
+
+  - Alternatively, install Qt Creator via a package manager:
+    - Ubuntu/Debian ~ sudo apt install qtcreator
+    - Arch Linux ~ sudo pacman -S qtcreator
+    - MacOS (Homebrew) ~ brew install qt-creator
+    - Windows (Chocolatey) ~ choco install qtcreator
+
+### Useful Commands [IF YOU RENAME DEFAULT WIDGET FILE YOU HAVE TO RENAME COMMANDS TOO] ###
 
 # Start Program
  - python widget.py
@@ -23,3 +40,12 @@ A Python-based tool for simulating the J-V characteristics of a photovoltaic mod
 
 # If you want to generate and save the IV curve:
  - python simulator.py --save-plot iv_curve.png
+
+### Useful Resources ###
+  - Qt Designer: https://doc.qt.io/qt-6/qtdesigner-manual.html
+  - Python: https://www.python.org/
+  - NumPy: https://numpy.org/
+  - Matplotlib: https://matplotlib.org/
+  - PyQt6 Documentation: https://www.riverbankcomputing.com/software/pyqt/intro
+  - PyQt UI Conversion: https://www.pythonguis.com/tutorials/pyqt6-creating-gui-applications/
+  - Solar Cell Physics Reference: https://pveducation.com/
