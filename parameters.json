@@ -1,14 +1,14 @@
 {
-    "module_width": "156",
-    "module_length": "156",
+    "module_width": "1000",
+    "module_length": "2000",
     "left_right_margin": "1",
     "up_down_margin": "1",
     "light_intensity": "1000",
     "number_of_IV_points": "10",
     "ideality_factor": "1.3",
     "thermal_voltage": "0.0259",
-    "dark_saturation_current": "1.0e-12",
-    "intrinsic_series_resistance": "0.02",
+    "dark_saturation_current": "1.0e-18",
+    "intrinsic_series_resistance": "0.004",
     "p1_width": "0.5",
     "p2_width": "0.5",
     "p3_width": "0.5",
@@ -17,7 +17,7 @@
     "cell_width": "5",
     "ito_sheet_resistance": "15",
     "carbon_sheet_resistance": "30",
-    "shunt_resistance": "300",
-    "normalized_jsc": "35",
+    "shunt_resistance": "40000",
+    "normalized_jsc": "44",
     "p2_contact_resistivity": "1.0e-3"
 }

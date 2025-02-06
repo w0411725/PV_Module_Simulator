@@ -134,3 +134,6 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+# Ignore Python virtual environment
+.qtcreator/Python_3_11_5venv/
