@@ -43,9 +43,14 @@ A Python-based tool for simulating the J-V characteristics of a photovoltaic mod
 
 ### Useful Resources ###
   - Qt Designer: https://doc.qt.io/qt-6/qtdesigner-manual.html
+  - Solar Cell Physics: https://pveducation.com/
+  - Solar Cell Effeciency Formula: https://www.ossila.com/pages/solar-cell-efficiency-formula
+  - Solar Cell Characteristics: https://www.alternative-energy-tutorials.com/photovoltaics/solar-cell-i-v-characteristic.html
+  - Solar Cell IV Curve: https://www.pveducation.org/pvcdrom/solar-cell-operation/iv-curve
+  - PyQt6 Documentation: https://www.riverbankcomputing.com/software/pyqt/intro
+  - PyQt UI Conversion: https://www.pythonguis.com/tutorials/pyqt6-creating-gui-applications/
   - Python: https://www.python.org/
   - NumPy: https://numpy.org/
   - Matplotlib: https://matplotlib.org/
-  - PyQt6 Documentation: https://www.riverbankcomputing.com/software/pyqt/intro
-  - PyQt UI Conversion: https://www.pythonguis.com/tutorials/pyqt6-creating-gui-applications/
-  - Solar Cell Physics Reference: https://pveducation.com/
+
+
